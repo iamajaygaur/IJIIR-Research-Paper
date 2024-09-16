@@ -1,1 +1,1 @@
-![My Diagram](Ajay Gaur.png)
+![My Diagram](./Ajay Gaur.png)
