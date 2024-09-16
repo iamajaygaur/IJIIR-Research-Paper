@@ -1,1 +1,1 @@
-![My Diagram](./Ajay Gaur.png)
+![Alt Text](./Ajay.png)
